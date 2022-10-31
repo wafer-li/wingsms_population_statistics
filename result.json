@@ -1,0 +1,405 @@
+{
+    "analyze_result": {
+        "total_count": 5794,
+        "most_user_class": "法师(冰,雷)",
+        "most_user_non_base_class": "法师(冰,雷)",
+        "non_base_classes_sorted_by_count": [
+            {
+                "class_name": "法师(冰,雷)",
+                "total_count": 1083,
+                "total_level": 66925,
+                "max_level": 97,
+                "max_level_user": "KOOK",
+                "average_level": 61.795937211449676
+            },
+            {
+                "class_name": "牧师",
+                "total_count": 1026,
+                "total_level": 64878,
+                "max_level": 92,
+                "max_level_user": "及时行乐",
+                "average_level": 63.23391812865497
+            },
+            {
+                "class_name": "猎人",
+                "total_count": 583,
+                "total_level": 34802,
+                "max_level": 92,
+                "max_level_user": "花里胡哨的",
+                "average_level": 59.694682675814754
+            },
+            {
+                "class_name": "枪战士",
+                "total_count": 494,
+                "total_level": 27297,
+                "max_level": 89,
+                "max_level_user": "残刀败剑",
+                "average_level": 55.25708502024292
+            },
+            {
+                "class_name": "刺客",
+                "total_count": 432,
+                "total_level": 28266,
+                "max_level": 111,
+                "max_level_user": "　欧皇阳　",
+                "average_level": 65.43055555555556
+            },
+            {
+                "class_name": "侠客",
+                "total_count": 401,
+                "total_level": 23891,
+                "max_level": 92,
+                "max_level_user": "帕瓦罗蒂",
+                "average_level": 59.5785536159601
+            },
+            {
+                "class_name": "剑客",
+                "total_count": 314,
+                "total_level": 18539,
+                "max_level": 97,
+                "max_level_user": "　　林夕　",
+                "average_level": 59.04140127388535
+            },
+            {
+                "class_name": "准骑士",
+                "total_count": 229,
+                "total_level": 14209,
+                "max_level": 95,
+                "max_level_user": "凉白开丶",
+                "average_level": 62.048034934497814
+            },
+            {
+                "class_name": "拳手",
+                "total_count": 198,
+                "total_level": 12715,
+                "max_level": 95,
+                "max_level_user": "烦这阵子",
+                "average_level": 64.21717171717172
+            },
+            {
+                "class_name": "火枪手",
+                "total_count": 154,
+                "total_level": 9044,
+                "max_level": 79,
+                "max_level_user": "流璇起舞",
+                "average_level": 58.72727272727273
+            },
+            {
+                "class_name": "弩弓手",
+                "total_count": 140,
+                "total_level": 10067,
+                "max_level": 85,
+                "max_level_user": "大腰子丶",
+                "average_level": 71.90714285714286
+            },
+            {
+                "class_name": "法师(火,毒)",
+                "total_count": 62,
+                "total_level": 3553,
+                "max_level": 79,
+                "max_level_user": "奥贝里斯克",
+                "average_level": 57.306451612903224
+            }
+        ],
+        "non_base_classes_sorted_by_average_level": [
+            {
+                "class_name": "弩弓手",
+                "total_count": 140,
+                "total_level": 10067,
+                "max_level": 85,
+                "max_level_user": "大腰子丶",
+                "average_level": 71.90714285714286
+            },
+            {
+                "class_name": "刺客",
+                "total_count": 432,
+                "total_level": 28266,
+                "max_level": 111,
+                "max_level_user": "　欧皇阳　",
+                "average_level": 65.43055555555556
+            },
+            {
+                "class_name": "拳手",
+                "total_count": 198,
+                "total_level": 12715,
+                "max_level": 95,
+                "max_level_user": "烦这阵子",
+                "average_level": 64.21717171717172
+            },
+            {
+                "class_name": "牧师",
+                "total_count": 1026,
+                "total_level": 64878,
+                "max_level": 92,
+                "max_level_user": "及时行乐",
+                "average_level": 63.23391812865497
+            },
+            {
+                "class_name": "准骑士",
+                "total_count": 229,
+                "total_level": 14209,
+                "max_level": 95,
+                "max_level_user": "凉白开丶",
+                "average_level": 62.048034934497814
+            },
+            {
+                "class_name": "法师(冰,雷)",
+                "total_count": 1083,
+                "total_level": 66925,
+                "max_level": 97,
+                "max_level_user": "KOOK",
+                "average_level": 61.795937211449676
+            },
+            {
+                "class_name": "猎人",
+                "total_count": 583,
+                "total_level": 34802,
+                "max_level": 92,
+                "max_level_user": "花里胡哨的",
+                "average_level": 59.694682675814754
+            },
+            {
+                "class_name": "侠客",
+                "total_count": 401,
+                "total_level": 23891,
+                "max_level": 92,
+                "max_level_user": "帕瓦罗蒂",
+                "average_level": 59.5785536159601
+            },
+            {
+                "class_name": "剑客",
+                "total_count": 314,
+                "total_level": 18539,
+                "max_level": 97,
+                "max_level_user": "　　林夕　",
+                "average_level": 59.04140127388535
+            },
+            {
+                "class_name": "火枪手",
+                "total_count": 154,
+                "total_level": 9044,
+                "max_level": 79,
+                "max_level_user": "流璇起舞",
+                "average_level": 58.72727272727273
+            },
+            {
+                "class_name": "法师(火,毒)",
+                "total_count": 62,
+                "total_level": 3553,
+                "max_level": 79,
+                "max_level_user": "奥贝里斯克",
+                "average_level": 57.306451612903224
+            },
+            {
+                "class_name": "枪战士",
+                "total_count": 494,
+                "total_level": 27297,
+                "max_level": 89,
+                "max_level_user": "残刀败剑",
+                "average_level": 55.25708502024292
+            }
+        ],
+        "class_info_groups": [
+            {
+                "class_group": "弓箭手",
+                "total_count": 772,
+                "max_level": 92,
+                "max_level_user": "花里胡哨的",
+                "average_level": 59.46373056994819,
+                "classes": [
+                    {
+                        "class_name": "弓箭手",
+                        "total_count": 49,
+                        "total_level": 1037,
+                        "max_level": 26,
+                        "max_level_user": "长岛の雪",
+                        "average_level": 21.163265306122447
+                    },
+                    {
+                        "class_name": "弩弓手",
+                        "total_count": 140,
+                        "total_level": 10067,
+                        "max_level": 85,
+                        "max_level_user": "大腰子丶",
+                        "average_level": 71.90714285714286
+                    },
+                    {
+                        "class_name": "猎人",
+                        "total_count": 583,
+                        "total_level": 34802,
+                        "max_level": 92,
+                        "max_level_user": "花里胡哨的",
+                        "average_level": 59.694682675814754
+                    }
+                ]
+            },
+            {
+                "class_group": "战士",
+                "total_count": 1252,
+                "max_level": 97,
+                "max_level_user": "　　林夕　",
+                "average_level": 51.55111821086262,
+                "classes": [
+                    {
+                        "class_name": "准骑士",
+                        "total_count": 229,
+                        "total_level": 14209,
+                        "max_level": 95,
+                        "max_level_user": "凉白开丶",
+                        "average_level": 62.048034934497814
+                    },
+                    {
+                        "class_name": "剑客",
+                        "total_count": 314,
+                        "total_level": 18539,
+                        "max_level": 97,
+                        "max_level_user": "　　林夕　",
+                        "average_level": 59.04140127388535
+                    },
+                    {
+                        "class_name": "战士",
+                        "total_count": 215,
+                        "total_level": 4497,
+                        "max_level": 30,
+                        "max_level_user": "风雨肚皮怪",
+                        "average_level": 20.91627906976744
+                    },
+                    {
+                        "class_name": "枪战士",
+                        "total_count": 494,
+                        "total_level": 27297,
+                        "max_level": 89,
+                        "max_level_user": "残刀败剑",
+                        "average_level": 55.25708502024292
+                    }
+                ]
+            },
+            {
+                "class_group": "新手",
+                "total_count": 82,
+                "max_level": 10,
+                "max_level_user": "彩虹村暴徒",
+                "average_level": 7.182926829268292,
+                "classes": [
+                    {
+                        "class_name": "新手",
+                        "total_count": 82,
+                        "total_level": 589,
+                        "max_level": 10,
+                        "max_level_user": "彩虹村暴徒",
+                        "average_level": 7.182926829268292
+                    }
+                ]
+            },
+            {
+                "class_group": "海盗",
+                "total_count": 430,
+                "max_level": 95,
+                "max_level_user": "烦这阵子",
+                "average_level": 54.11162790697674,
+                "classes": [
+                    {
+                        "class_name": "拳手",
+                        "total_count": 198,
+                        "total_level": 12715,
+                        "max_level": 95,
+                        "max_level_user": "烦这阵子",
+                        "average_level": 64.21717171717172
+                    },
+                    {
+                        "class_name": "海盗",
+                        "total_count": 78,
+                        "total_level": 1509,
+                        "max_level": 28,
+                        "max_level_user": "MissFortune",
+                        "average_level": 19.346153846153847
+                    },
+                    {
+                        "class_name": "火枪手",
+                        "total_count": 154,
+                        "total_level": 9044,
+                        "max_level": 79,
+                        "max_level_user": "流璇起舞",
+                        "average_level": 58.72727272727273
+                    }
+                ]
+            },
+            {
+                "class_group": "飞侠",
+                "total_count": 892,
+                "max_level": 111,
+                "max_level_user": "　欧皇阳　",
+                "average_level": 59.87892376681614,
+                "classes": [
+                    {
+                        "class_name": "侠客",
+                        "total_count": 401,
+                        "total_level": 23891,
+                        "max_level": 92,
+                        "max_level_user": "帕瓦罗蒂",
+                        "average_level": 59.5785536159601
+                    },
+                    {
+                        "class_name": "刺客",
+                        "total_count": 432,
+                        "total_level": 28266,
+                        "max_level": 111,
+                        "max_level_user": "　欧皇阳　",
+                        "average_level": 65.43055555555556
+                    },
+                    {
+                        "class_name": "飞侠",
+                        "total_count": 59,
+                        "total_level": 1255,
+                        "max_level": 29,
+                        "max_level_user": "公子人如玉",
+                        "average_level": 21.271186440677965
+                    }
+                ]
+            },
+            {
+                "class_group": "魔法师",
+                "total_count": 2366,
+                "max_level": 97,
+                "max_level_user": "KOOK",
+                "average_level": 59.13609467455621,
+                "classes": [
+                    {
+                        "class_name": "法师(冰,雷)",
+                        "total_count": 1083,
+                        "total_level": 66925,
+                        "max_level": 97,
+                        "max_level_user": "KOOK",
+                        "average_level": 61.795937211449676
+                    },
+                    {
+                        "class_name": "法师(火,毒)",
+                        "total_count": 62,
+                        "total_level": 3553,
+                        "max_level": 79,
+                        "max_level_user": "奥贝里斯克",
+                        "average_level": 57.306451612903224
+                    },
+                    {
+                        "class_name": "牧师",
+                        "total_count": 1026,
+                        "total_level": 64878,
+                        "max_level": 92,
+                        "max_level_user": "及时行乐",
+                        "average_level": 63.23391812865497
+                    },
+                    {
+                        "class_name": "魔法师",
+                        "total_count": 195,
+                        "total_level": 4560,
+                        "max_level": 28,
+                        "max_level_user": "灬狐妖灬",
+                        "average_level": 23.384615384615383
+                    }
+                ]
+            }
+        ]
+    },
+    "date": "2022-11-01 02:43:27.201446",
+    "timestamp": 1667241807
+}
